@@ -3,7 +3,9 @@ This repository contains details related to installing, configuring, and viewing
 
 ## Details
 Public IP Address: 54.158.142.39
+
 URL: http://ec2-54-158-142-39.compute-1.amazonaws.com/
+
 SSH Port: 2200
 
 ## Summary of Software Installed
