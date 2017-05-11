@@ -2,7 +2,7 @@
 This repository contains details related to installing, configuring, and viewing the Item Catalog application on Linux Servers found on Amazon Lightsail. It contains the IP Address, URL, summary of software installed, summary of configuration made, and a list of third party resources used to complete the project.
 
 ## Details
-Public IP Address: 54.208.247.72
+Public IP Address: 54.158.142.39
 URL: http://ec2-54-158-142-39.compute-1.amazonaws.com/
 SSH Port: 2200
 
